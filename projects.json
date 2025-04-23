@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Cache-Up",
+      "description": "A tech news aggregation platform that summarizes articles into concise updates using AI-powered pipelines and vector search integration.",
+      "technologies": ["Python", "FastAPI", "Next.js", "PostgreSQL", "Tailwind CSS", "Pinecone", "MCP", "Sentry"],
+      "links": {
+        "github": "https://github.com/d3v-26/cache-up",
+        "live": "https://cacheup.pateldev.tech"
+      },
+      "tags": ["AI", "News Aggregation", "Full Stack", "Vector Search", "Automation", "Monitoring"]
+    },
+    {
+      "title": "Brain MRI Segmentation Tool (GRACE/DOMINO)",
+      "description": "Web-based interface and backend deployment for GRACE and DOMINO models, allowing clinicians to segment brain images efficiently.",
+      "technologies": ["Python", "ONNX", "WebGL", "Flask", "Next.js", "Niivue", "WebAssembly"],
+      "links": {
+        "github": "https://github.com/d3v-26/grace-web",
+        "live": "https://grace.pateldev.tech"
+      },
+      "tags": ["Medical Imaging", "Segmentation", "Deep Learning", "ONNX", "Web Inference"]
+    },
+    {
+      "title": "Multilingual Vocabulary App",
+      "description": "An educational app for Hindi, Marathi, and Sanskrit built using Flutter and Swift. Features 50K+ vocabulary entries with real-time sync.",
+      "technologies": ["Flutter", "Swift", "Firebase", "Python", "MySQL"],
+      "links": {
+        "github": "https://github.com/d3v-26/multilingual-vocab",
+        "live": "https://play.google.com/store/apps/details?id=com.shabdamitra.vocab"
+      },
+      "tags": ["Education", "Mobile App", "Multilingual", "Real-time", "Cross-platform"]
+    },
+    {
+      "title": "Marketing Analytics Dashboard",
+      "description": "Interactive dashboard using Tableau and Power BI for analyzing ad campaign metrics, uncovering insights for finance strategy.",
+      "technologies": ["Tableau", "Power BI", "R"],
+      "links": {
+        "github": "https://github.com/d3v-26/marketing-analytics"
+      },
+      "tags": ["Analytics", "Visualization", "Marketing", "Data Science", "BI Tools"]
+    },
+    {
+      "title": "Microservices Architecture for Bharat Tyres",
+      "description": "Developed a secure and scalable cloud-based microservice system with CI/CD pipelines and OAuth2 integration.",
+      "technologies": ["React", "Next.js", "Node.js", "PostgreSQL", "Docker", "Kubernetes", "AWS"],
+      "links": {
+        "github": "https://github.com/d3v-26/bharat-tyres-system"
+      },
+      "tags": ["Cloud", "Microservices", "CI/CD", "Security", "DevOps", "Backend"]
+    }
+]
+  
